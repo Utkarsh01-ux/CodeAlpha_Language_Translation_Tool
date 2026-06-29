@@ -26,4 +26,4 @@ This is a Java Swing based Language Translation Tool developed for the CodeAlpha
 4. Run `LanguageTranslationTool.java`
 
 ## 👨‍💻 Author
-Sagar Kumar
+utkarsh Kumar
